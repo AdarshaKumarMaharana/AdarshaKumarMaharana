@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdarshaKumarMaharana&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsha" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&color=07F728FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AAdarsha+Kumar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&color=07F728FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi +There!+👋;+ I'm+ Adarsha+Kumar!;" />
 </h1>
 
 <h3 align="center">A passionate full stack Web Developer</h3>
