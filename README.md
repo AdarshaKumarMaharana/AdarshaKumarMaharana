@@ -1,54 +1,67 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdarshaKumarMaharana&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsha" /> </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&color=07F728FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi +There!+👋;+ I'm+ Adarsha+Kumar!;" />
-</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdarshaKumarMaharana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-<h3 align="center">A passionate full stack Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&size=34&duration=4000&center=true&vCenter=true&width=600&lines=Adarsha+Kumar+Maharana;Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+MERN+Stack" alt="Typing SVG" />
+</p>
 
-<br/>
+<p align="center">
+  <em>Software Developer crafting scalable, user-centric web solutions with Java and MERN Stack</em>
+</p>
 
-<div align="center">
- 
- 🌱 I’m currently learning **Java, Web Developement**
+---
 
-💬 Ask me about **Core Java, HTML, CSS, JavaScript**
+## 📌 About Me
 
- </div>
- 
-<div align="center"> 
+I’m a passionate **Full-Stack Web Developer** with a strong foundation in **Java**, **Spring Boot**, and the **MERN Stack** (MongoDB, Express.js, React, Node.js). I specialize in building robust backend systems and dynamic, responsive frontends using modern technologies like **React** and **Tailwind CSS**. My goal is to transform ideas into scalable, maintainable, and user-friendly digital solutions that make an impact.
+
+- 🎓 B.Tech in Computer Science Engineering, Nalanda Institute of Technology, Bhubaneswar (2025)
+- 💡 Enthusiastic about creating intuitive and efficient web applications
+- 🌟 Always exploring new tools and technologies to enhance my development skills
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="mailto:eadarsha2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/adarsha-kumar-maharana-256b8b2a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-</div>
+  <a href="https://stackoverflow.com/users/23640059/adarsha-kumar-maharana" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://adarsha.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript" />
-    <br>
-</div>
+---
 
-<br/>
-<hr/>
+## 🛠️ Technologies & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,bootstrap,tailwind,vscode,figma" />
+</p>
 
+---
 
-<hr/>
+## 📊 GitHub Insights
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshaKumarMaharana&show_icons=true&hide_title=true&theme=gruvbox&border_radius=8" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshaKumarMaharana&layout=compact&theme=gruvbox&border_radius=8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshaKumarMaharana&theme=gruvbox&border_radius=8" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshaKumarMaharana&show_icons=true&locale=en&layout=compact" alt="Adarsha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdarshaKumarMaharana&show_icons=true&locale=en" alt="Adarsha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshaKumarMaharana&" alt="Adarsha" /></p>
-
-<br/><br/>
+<p align="center">
+  <em>💻 Let's build something amazing together!</em>
+</p>
