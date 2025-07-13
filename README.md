@@ -29,7 +29,7 @@ I’m a passionate **Full-Stack Web Developer** with a strong foundation in **Ja
   <a href="mailto:eadarsha2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/adarsha-kumar-maharana-256b8b2a0" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsha-kumar-maharana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/23640059/adarsha-kumar-maharana" target="_blank">
