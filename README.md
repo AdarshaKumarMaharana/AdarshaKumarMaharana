@@ -32,7 +32,7 @@ I’m a passionate **Full-Stack Web Developer** with a strong foundation in **Ja
   <a href="https://www.linkedin.com/in/adarsha-kumar-maharana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/23640059/adarsha-kumar-maharana" target="_blank">
+  <a href="https://stackoverflow.com/users/31029111/adarsha-kumar-maharana?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
   <a href="https://adarsha.me" target="_blank">
